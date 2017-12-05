@@ -1,3 +1,3 @@
-[required] tags to use on every lesson: training-materials, wordpress
-[required] choose one of these tags: lesson-user, lesson-theme, lesson-plugin, lesson-speaker
-[optional] choose one of these tags: help wanted, good first issue
+[required] topics to use on every lesson: training-materials, wordpress
+[required] choose one of these topics: lesson-user, lesson-theme, lesson-plugin, lesson-speaker
+[optional] choose one of these topics: help wanted, good first issue
