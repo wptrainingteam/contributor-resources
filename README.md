@@ -11,6 +11,8 @@ https://monosnap.com/file/ZUXaTXq0QezthmcC2tiDriknOBjy8i
 
 ### Submit an Issue
 
+https://screencast-o-matic.com/watch/cFejIGDoth
+
 #### Add this to the initial issue for each repository:
 ```
 Convert Lesson Plan to GitHub
