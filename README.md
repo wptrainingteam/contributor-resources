@@ -4,6 +4,7 @@ Helpful information and resources for volunteer contributors to the WP Training 
 ## How-to Screencasts
 ### Move a Lesson Plan Into GitHub
 https://monosnap.com/file/ZUXaTXq0QezthmcC2tiDriknOBjy8i
+
 Link to coversion tool mentioned in the video: https://www.browserling.com/tools/html-to-markdown
 
 ### Transfer Images Into GitHub
