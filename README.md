@@ -1,6 +1,9 @@
 # Contributor Resources
 Helpful information and resources for volunteer contributors to the WP Training Team
 
+Just leaving this link regarding GitHub organizations/team here: 
+https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
+
 ## How-to Screencasts
 ### Move a Lesson Plan Into GitHub
 https://monosnap.com/file/ZUXaTXq0QezthmcC2tiDriknOBjy8i
