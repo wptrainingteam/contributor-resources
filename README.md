@@ -10,6 +10,9 @@ https://monosnap.com/file/ZUXaTXq0QezthmcC2tiDriknOBjy8i
 
 Link to coversion tool mentioned in the video: https://www.browserling.com/tools/html-to-markdown
 
+### Verify a Lesson Plan (Compare Make and GitHub Versions)
+https://screencast-o-matic.com/watch/cFeqlNDuY7
+
 ### Transfer Images Into GitHub
 
 ### Edit a Lesson Plan
