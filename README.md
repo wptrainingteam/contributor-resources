@@ -13,6 +13,8 @@ Link to coversion tool mentioned in the video: https://www.browserling.com/tools
 ### Verify a Lesson Plan (Compare Make and GitHub Versions)
 https://screencast-o-matic.com/watch/cFeqlNDuY7
 
+One thing I forgot to mention in the screencast. If there are no additional issues for the lesson plan you are reviewing, please check all the boxes in the initial issue and then drag the lesson plan to the Done column in the project. I'll find them there and review them quickly before closing the issue.
+
 ### Transfer Images Into GitHub
 
 ### Edit a Lesson Plan
