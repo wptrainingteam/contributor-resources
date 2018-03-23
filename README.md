@@ -51,14 +51,14 @@ Convert Lesson Plans to GitHub
 ### Icons
 The old Make site had the ability to add alert boxes to lesson plans. We have lost that in the move to GitHub. However, we have chosen to use icons as a replacement.
 
-Question ![]()
-Information ![]()
-Dashboard ![]()
-Light Bulb ![]()
-Warning Sign ![]()
-Stop ![]()
+* Question ![]()
+* Information ![]()
+* Dashboard ![]()
+* Light Bulb ![]()
+* Warning Sign ![]()
+* Stop ![]()
 
 The alert boxes in Make should be converted as follows:
-Info -> Information
-Warning -> Warning Sign
-Danger -> Stop
+* Info -> Information ![]()
+* Warning -> Warning Sign ![]()
+* Danger -> Stop ![]()
