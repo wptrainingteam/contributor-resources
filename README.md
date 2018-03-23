@@ -61,4 +61,4 @@ The old Make site had the ability to add alert boxes to lesson plans. We have lo
 The alert boxes in Make should be converted as follows:
 * Info -> Information ![](https://github.com/wptrainingteam/contributor-resources/tree/master/images/if_Button-White-Info_58496.png)
 * Warning -> Warning Sign ![](https://github.com/wptrainingteam/contributor-resources/tree/master/images/if_Sign-Warning_58607.png)
-* Danger -> Stop ![](https://github.com/wptrainingteam/contributor-resources/tree/master/images/if_Stop_58614.png)
+* Danger -> Stop ![](https://raw.githubusercontent.com/JulieKuehl/contributor-resources/master/images/if_Stop_58614.png)
