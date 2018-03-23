@@ -51,14 +51,14 @@ Convert Lesson Plans to GitHub
 ### Icons
 The old Make site had the ability to add alert boxes to lesson plans. We have lost that in the move to GitHub. However, we have chosen to use icons as a replacement.
 
-* Question ![]()
-* Information ![]()
-* Dashboard ![]()
-* Light Bulb ![]()
-* Warning Sign ![]()
-* Stop ![]()
+* Question ![](https://github.com/wptrainingteam/contributor-resources/images/if_Button White Help_58495.png)
+* Information ![](https://github.com/wptrainingteam/contributor-resources/images/if_Button White Info_58496.png)
+* Dashboard ![](https://github.com/wptrainingteam/contributor-resources/images/if_Dashboard_58527.png)
+* Light Bulb ![](https://github.com/wptrainingteam/contributor-resources/images/if_Light Bulb On_58569.png)
+* Warning Sign ![](https://github.com/wptrainingteam/contributor-resources/images/if_Sign Warning_58607.png)
+* Stop ![](https://github.com/wptrainingteam/contributor-resources/images/if_Stop_58614.png)
 
 The alert boxes in Make should be converted as follows:
-* Info -> Information ![]()
-* Warning -> Warning Sign ![]()
-* Danger -> Stop ![]()
+* Info -> Information ![](https://github.com/wptrainingteam/contributor-resources/images/if_Button White Info_58496.png)
+* Warning -> Warning Sign ![](https://github.com/wptrainingteam/contributor-resources/images/if_Sign Warning_58607.png)
+* Danger -> Stop ![](https://github.com/wptrainingteam/contributor-resources/images/if_Stop_58614.png)
