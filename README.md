@@ -51,14 +51,14 @@ Convert Lesson Plans to GitHub
 ### Icons
 The old Make site had the ability to add alert boxes to lesson plans. We have lost that in the move to GitHub. However, we have chosen to use icons as a replacement.
 
-* Question 		![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Button-White-Help_58495.png)
-* Information 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Button-White-Info_58496.png)
-* Dashboard 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Dashboard_58527.png)
-* Light Bulb 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Light-Bulb-On_58569.png)
-* Warning Sign 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Sign-Warning_58607.png)
-* Stop 			![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Stop_58614.png)
+* Question 		![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-help.png)
+* Information 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png)
+* Dashboard 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-dashboard.png)
+* Light Bulb 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png)
+* Warning Sign 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png)
+* Stop 			![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-danger.png)
 
 The alert boxes in Make should be converted as follows:
-* Info -> Information 		![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Button-White-Info_58496.png)
-* Warning -> Warning Sign 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Sign-Warning_58607.png)
-* Danger -> Stop 			![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/if_Stop_58614.png)
+* Info -> Information 		![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png)
+* Warning -> Warning Sign 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png)
+* Danger -> Stop 			![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-danger.png)
