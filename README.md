@@ -62,3 +62,13 @@ The alert boxes in Make should be converted as follows:
 * Info -> Information 		![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png)
 * Warning -> Warning Sign 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png)
 * Danger -> Stop 			![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-danger.png)
+
+To use these icons in Markdown here on GitHub, copy and paste these links into the lesson plans:
+```
+* ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-help.png)
+* ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png)
+* ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-dashboard.png)
+* ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png)
+* ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png)
+* ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-danger.png)
+```
