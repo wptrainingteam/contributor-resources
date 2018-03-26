@@ -15,8 +15,6 @@ https://screencast-o-matic.com/watch/cFeqlNDuY7
 
 One thing I forgot to mention in the screencast. If there are no additional issues for the lesson plan you are reviewing, please check all the boxes in the initial issue and then drag the lesson plan to the Done column in the project. I'll find them there and review them quickly before closing the issue.
 
-### Transfer Images Into GitHub
-
 ### Edit a Lesson Plan
 
 ### Submit an Issue
@@ -48,7 +46,7 @@ Master List
 Convert Lesson Plans to GitHub
 ```
 
-### Icons
+## Icons in Lesson Plans
 The old Make site had the ability to add alert boxes to lesson plans. We have lost that in the move to GitHub. However, we have chosen to use icons as a replacement.
 
 * Question 		![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-help.png)
@@ -63,7 +61,7 @@ The alert boxes in Make should be converted as follows:
 * Warning -> Warning Sign 	![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png)
 * Danger -> Stop 			![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-danger.png)
 
-To use these icons in Markdown here on GitHub, copy and paste these links into the lesson plans:
+To use these icons in Markdown for any lesson plan here on GitHub, copy and paste these links into the lesson plans:
 ```
 * ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-help.png)
 * ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png)
