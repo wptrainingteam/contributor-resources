@@ -70,3 +70,9 @@ To use these icons in Markdown for any lesson plan here on GitHub, copy and past
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png)
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-danger.png)
 ```
+
+## Github Stuff
+
+### Do a nice job, Paul
+
+https://cl.ly/07380s0z3r16
