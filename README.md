@@ -12,14 +12,6 @@ https://help.github.com/categories/setting-up-and-managing-organizations-and-tea
 
 https://screencast-o-matic.com/watch/cFejIGDoth
 
-#### Add an appropriate label in the right sidebar
-```
-theme     Theme Lessons     #1d76db (default blue)
-plugin    Plugin Lessons    #e99695 (default faded red)
-user      User Lessons      #fbca04 (default yellow)
-speaker   Speaker Lessons   #d4c5f9 (default faded purple)
-```
-
 ## Icons in Lesson Plans
 The Make site had the ability to add alert boxes to lesson plans. We have lost that in the move to GitHub. However, we have chosen to use icons as a replacement.
 
