@@ -5,6 +5,8 @@ Helpful information and resources for volunteer contributors to the WP Training 
 
 ### Edit a Lesson Plan
 
+https://youtu.be/-QnjJIFlQyU
+
 ### Submit an Issue
 
 https://screencast-o-matic.com/watch/cFejIGDoth
