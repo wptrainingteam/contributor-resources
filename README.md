@@ -3,6 +3,10 @@ Helpful information and resources for volunteer contributors to the WP Training 
 
 ## How-to Screencasts
 
+### Fork a Repo (Repository)
+
+https://cl.ly/07380s0z3r16
+
 ### Edit a Lesson Plan
 
 https://youtu.be/-QnjJIFlQyU
@@ -34,9 +38,3 @@ To use these icons in Markdown for any lesson plan here on GitHub, copy and past
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/flag.png)
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/dismiss.png)
 ```
-
-## Github Stuff
-
-### Do a nice job, Paul
-
-https://cl.ly/07380s0z3r16
