@@ -15,6 +15,13 @@ https://youtu.be/-QnjJIFlQyU
 
 https://screencast-o-matic.com/watch/cFejIGDoth
 
+## Images in Lesson Plans
+We prefer to have the image files stored in GitHub rather than linked from other locations on the web. Place them in the `/images/` folder and link to them using this relative URL:
+
+```
+> [Image description](/images/filename.png)
+```
+
 ## Slides in Lesson Plans
 Add the following to the lesson plan's Materials Needed section and change the "repo-name" part of the URL to the repo name for that lesson plan. This link will not work until the pull request for the lesson plan has been merged into the wptrainingteam's `dev` branch.
 
