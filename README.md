@@ -7,6 +7,10 @@ Helpful information and resources for volunteer contributors to the WP Training 
 
 https://cl.ly/07380s0z3r16
 
+## GitHub Standard Fork & Pull Request Workflow
+
+https://gist.github.com/Chaser324/ce0505fbed06b947d962
+
 ### Edit a Lesson Plan
 
 https://youtu.be/-QnjJIFlQyU
